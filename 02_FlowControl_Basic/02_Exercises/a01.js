@@ -1,23 +1,29 @@
 /*
-Task: Determine discounts
-A. Using if-then-else, determine discounts correctly based on the given comments below.
-B. Check with different values for variable 'age' that discounts
-are computed correctly.
+Thema: if-then-else ("wenn-dann-sonst", conditional statements)
+    und switch-case
  */
-//Assign to variable 'age' i.e. 35 which means 35 years old
+/*
+Aufgabe - Zusätzlich Temperatur zur Meldung ausgeben
+ */
+//Input
+'use strict';
+let temp = 36;
+//When temperature is lower equal 4 ...
 //??
-//if the age is 6 or younger, then admission is free
+    //It is .. °C and it's freezing outside!
+//??
+//Else when temperature is lower equal 25 ...
+//??
+    //It's .. °C and pretty nice out!
+//??
+// Else when temperature is more equal 35 ...
+//??
+    //It is .. °C and  and very hot outside!
+//??
+//Else
+//??
+    //It's .. °C and still quite warm!
 //??
 //??
-//??
-//if age is younger than 16, then there is a child discount
-//??
-//??
-//??
-//if the person is 65 or older, then there is a senior discount
-//??
-//??
-//otherwise there is no discount.
-//??
-//??
-//??
+
+
