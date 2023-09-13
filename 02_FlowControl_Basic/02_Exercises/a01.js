@@ -1,11 +1,7 @@
 /*
-Thema: if-then-else ("wenn-dann-sonst", conditional statements)
-    und switch-case
- */
-/*
-Aufgabe - Zusätzlich Temperatur zur Meldung ausgeben
- */
-//Input
+Tasks: Make an appropriate suggestion based on the temperature
+Declare and print variables, constants correctly based on the given comments below.
+*/
 'use strict';
 let temp = 36;
 //When temperature is lower equal 4 ...
