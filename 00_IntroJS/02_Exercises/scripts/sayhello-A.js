@@ -1,11 +1,4 @@
-alert('Hello World from external JavaScript!');
-
-
-
-
-
-
-
+    alert('Hello World from external JavaScript!')
 
 
 

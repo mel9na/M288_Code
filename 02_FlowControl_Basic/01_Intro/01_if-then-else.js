@@ -28,7 +28,7 @@ Example 2 - Is it cold or warm?
  */
 
 //Input
-let temp = 4;
+let temperature = 4;
 
 //Überprüfung + Steuerung
 let temp = 23;
